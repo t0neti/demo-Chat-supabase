@@ -1,0 +1,7 @@
+
+# Configuracion de JetBrains
+.idea/
+
+# Instalacion de Javascript, para que no se cargue.
+node_modules/
+
